@@ -13,9 +13,9 @@
 
 <br>
 
-<h1 align="center">
+<p align="center">
     <img alt="Move.it" src="./public/moveit.svg" />
-</h1>
+</p>
 
 ## 🧪 Tecnologias
 
