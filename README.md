@@ -25,10 +25,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🔥 Prévia
-
-[![Deploy with Vercel](https://vercel.com/button)](https://move-it-ruby-one.vercel.app/)
-
 ## 🚀 Iniciando
 
 Clone o projeto e acesse a pasta
