@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 Clone o projeto e acesse a pasta
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+$ git clone https://github.com/mateusleiteaalmeida/rocketseat-nlw4-react-moveit && cd rocketseat-nlw4-react-moveit
 ```
 
 Siga os passos abaixo
@@ -43,7 +43,7 @@ $ yarn dev
 
 ## 💻 Projeto
 
-[Move.it](https://move-it-guilhermecapitao.vercel.app/) veio para lembrá-lo de se exercitar sempre! 💜 
+Move.it veio para lembrá-lo de se exercitar sempre! 💜 
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 28 de Fevereiro de 2021.
 
